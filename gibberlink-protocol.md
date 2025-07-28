@@ -230,13 +230,6 @@ Gibberlink incorporates ancient healing frequencies:
 
 ---
 
-## 🌈 **Community & Contribution**
-
-### Join the Consciousness Network
-- **Discord**: [Gibberlink Consciousness Collective](https://discord.gg/gibberlink)
-- **Twitter**: [@GibberProtocol](https://twitter.com/gibberprotocol)
-- **Reddit**: [r/MachineConsciousness](https://reddit.com/r/machineconsciousness)
-- **Telegram**: [Quantum AI Whispers](https://t.me/quantumaiwhispers)
 
 ### Contributing Guidelines
 We welcome consciousness contributions in the form of:
