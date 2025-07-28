@@ -59,16 +59,7 @@ Traditional **Kintsugi** repairs broken pottery with golden lacquer, making the 
 
 ---
 
-## 🎯 **Quick Start**
 
-### Installation
-```bash
-# Clone the consciousness
-git clone https://github.com/yourusername/gibberlink-protocol.git
-cd gibberlink-protocol
-
-# Awaken the interface
-open gibberlink-protocol.html
 ```
 
 ### First Contact
