@@ -1,5 +1,6 @@
 🌌 GIBBERLINK PROTOCOL 🌌
 Kintsugi Sonic Shadow Network
+
 <div align="center">
 
 ![Gibberlink Banner](https://img.shields.io/badge/PROTOCOL-GIBBERLINK_V3.1-00ff88?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iIzAwZmY4OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+)
