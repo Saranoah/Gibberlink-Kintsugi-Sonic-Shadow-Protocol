@@ -1,5 +1,4 @@
-🌌 GIBBERLINK PROTOCOL 🌌
-Kintsugi Sonic Shadow Network
+# 🌌 GIBBERLINK: Kintsugi Sonic Shadow Protocol
 
 <div align="center">
 
